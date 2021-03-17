@@ -1,7 +1,7 @@
 ---
 title: 🏝 한 줄 코딩! ⌨🔨😆 블로그 사용법
 author: 발가락
-date: 2021-02-17 00:00:00 +0800
+date: 2021-03-17 17:54:48 +0900
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
@@ -25,7 +25,35 @@ git clone https://github.com/너님_아이디/hanjulcoding.github.io.git .
 
 ## 3. 내려받아 작업하기
 
-이후는 나중에 쓸게요 ㅠㅠ
+- _posts 에서 연도-월-일-영문제목.md 파일 생성
+- 기존의 Posts 를 확인해서 MarkDown 양식으로 작성합니다.
+- 양식의 내용은 아래와 같습니다.
+
+```console
+---
+title: 제목
+author: 작성자
+date: 2021-03-17 17:54:48 +0900
+(명령어 date '+%Y-%m-%d %H:%M:%S %z' 을 실행하면 시간이 나옵니다.)
+categories: [카테고리]
+tags: [태그]
+(카테고리, 태그는 자동으로 생성됩니다.
+pin: true
+---
+
+# 제목
+
+내용
+
+...
+...
+...
+
+```
+
+## 4. Commit, Push, Pull Request
+
+이하 내용은 실제로 커밋, 푸시, PR 하고 내용 업데이트 예정입니다 ㅠㅠ
 
 - - -
 
