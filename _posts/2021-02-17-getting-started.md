@@ -139,13 +139,13 @@ git push
 
 - - -
 
-### <유튜브 소개 영상>
+### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5huAvcd1DPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### <Github>
+### Github
 [https://github.com/hanjulcoding/hanjulcoding.github.io](https://github.com/hanjulcoding/hanjulcoding.github.io)
 
-### <카카오 오픈채팅방>
+### 카카오 오픈채팅방
 "한 줄 코딩" 검색 또는
 
 [https://open.kakao.com/o/gBCDGDUc](https://open.kakao.com/o/gBCDGDUc)
