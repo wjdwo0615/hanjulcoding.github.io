@@ -92,13 +92,12 @@ Pull Request 를 합니다.
 작업 전에 미리 설정해서 꼭! Pull 을 받고 진행해요.
 
 
-1. 내 로컬 PC에 포크 저장소 Clone
+#### 1. 내 로컬 PC에 포크 저장소 Clone
 
 ```console
 git clone https://github.com/6lueparr0t/hanjulcoding.git
 ```
-2. Clone 한 프로젝트 디렉토리로 이동
-3. 리모트 저장소 확인
+#### 2. Clone 한 프로젝트 디렉토리로 이동 후 리모트 저장소 확인
 
 ```console
 git remote -v
@@ -107,7 +106,7 @@ origin	https://github.com/6lueparr0t/hanjulcoding.github.io.git (fetch)
 origin	https://github.com/6lueparr0t/hanjulcoding.github.io.git (push)
 ```
 
-4. 리모트 저장소에 원본 저장소 추가
+#### 3. 리모트 저장소에 원본 저장소 추가
 
 ```console
 git remote add upstream https://github.com/hanjulcoding/
@@ -126,14 +125,15 @@ upstream	https://github.com/hanjulcoding/hanjulcoding.github.io.git (fetch)
 upstream	https://github.com/hanjulcoding/hanjulcoding.github.io.git (push)
 ```
 
-5. 원본 저장소 fetch, merge
+#### 4. 원본 저장소 fetch, merge
 
 ```console
 git fetch upstream
 git merge upstream/main
 ```
 
-7. 포크 저장소로 push
+#### 5. 포크 저장소로 push
+
 ```console
 git push
 ```
