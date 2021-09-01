@@ -109,9 +109,7 @@ origin	https://github.com/6lueparr0t/hanjulcoding.github.io.git (push)
 #### 3. 리모트 저장소에 원본 저장소 추가
 
 ```console
-git remote add upstream https://github.com/hanjulcoding/
-
-hanjulcoding.github.io.git
+git remote add upstream https://github.com/hanjulcoding/hanjulcoding.github.io.git
 ```
 
 `git remote -v` 명령어를 입력해보면 upstream으로 원본 저장소가 추가된 것 확인
